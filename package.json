@@ -1,0 +1,24 @@
+{
+	"name": "ionztorm-theme",
+	"displayName": "ionztorm theme",
+	"description": "A VSCode theme by ionztorm, influenced by Tokyonight",
+	"version": "0.0.1",
+	"publisher": "leonlonsdale",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": ["Themes"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LeonLonsdale/ionztorm-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "ionztorm",
+				"uiTheme": "vs-dark",
+				"path": "./ionztorm.json"
+			}
+		]
+	}
+}
