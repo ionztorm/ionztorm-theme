@@ -3,7 +3,7 @@
 	"displayName": "ionztorm theme",
 	"description": "A VSCode theme by ionztorm, influenced by Tokyonight",
 	"version": "0.3.3",
-	"publisher": "LeonLonsdale",
+	"publisher": "ionztorm",
 	"icon": "image/icon.png",
 	"engines": {
 		"vscode": "^1.50.0"
