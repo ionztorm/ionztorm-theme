@@ -2,9 +2,9 @@
 	"name": "ionztorm-theme",
 	"displayName": "ionztorm theme",
 	"description": "A VSCode theme by ionztorm, influenced by Tokyonight",
-	"version": "0.3.3",
+	"version": "0.3.7",
 	"publisher": "ionztorm",
-	"icon": "image/icon.png",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
@@ -18,7 +18,7 @@
 			{
 				"label": "ionztorm",
 				"uiTheme": "vs-dark",
-				"path": "./ionztorm.json"
+				"path": "theme/ionztorm.json"
 			}
 		]
 	}

@@ -24,7 +24,7 @@
 		"activityBar.activeBorder": "#7aa2f7",
 		"sideBar.background": "#1f2335",
 		"sideBar.dropBackground": "#292e42",
-		"sideBar.border": "#1f2335",
+		"sideBar.border": "#7aa2f7",
 		"sideBar.foreground": "#a9b1d6",
 		"sideBarSectionHeader.background": "#292e42",
 		"sideBarSectionHeader.foreground": "#a9b1d6",
@@ -32,7 +32,7 @@
 		"sideBarSectionHeader.border": "#1f2335",
 		"statusBar.foreground": "#a9b1d6",
 		"statusBar.background": "#1f2335",
-		"statusBar.border": "#1f2335",
+		"statusBar.border": "#7aa2f7",
 		"statusBar.debuggingBackground": "#292e42",
 		"statusBar.debuggingForeground": "#ff007c",
 		"statusBar.debuggingBorder": "#ff007c",
@@ -176,7 +176,7 @@
 		"notification.errorBackground": "#f7768e",
 		"notification.errorForeground": "#1f2335",
 		"panel.background": "#1f2335",
-		"panel.border": "#292e42",
+		"panel.border": "#7aa2f7",
 		"panelTitle.activeForeground": "#7aa2f7",
 		"panelTitle.inactiveForeground": "#737aa2",
 		"panelTitle.activeBorder": "#7aa2f7",
@@ -290,6 +290,7 @@
 			"scope": [
 				"constant.language.null",
 				"keyword.operator.assignment",
+				"punctuation.definition.tag",
 				"support.constant.json",
 				"keyword.operator",
 				"punctuation.accessor",
@@ -309,7 +310,6 @@
 		{
 			"name": "GREY",
 			"scope": [
-				"punctuation.definition.tag",
 				"comment.line.double-slash",
 				"punctuation.accessor.optional",
 				"comment.block"

@@ -23,7 +23,7 @@ To install the ionztorm Theme:
 3. Select the theme from the Color Theme menu (`Ctrl+K Ctrl+T`).
 
 ### Feedback & Support:
-This is my first theme, so I value your feedback! If you encounter any issues or have suggestions for improvement, please open an issue on our [GitHub repository](https://github.com/LeonLonsdale/ionztorm-theme).
+This is my first theme, so I value your feedback! If you encounter any issues or have suggestions for improvement, please open an issue on our [GitHub repository](https://github.com/ionztorm/ionztorm-theme).
 
 ### Contributions:
 The theme was built while using React TSX, JSON, Tailwind and HTML, so token colours should work nicely when writing these languages.
