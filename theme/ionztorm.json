@@ -187,7 +187,8 @@
 		"titleBar.activeBackground": "#292e42",
 		"titleBar.activeForeground": "#c0caf5",
 		"titleBar.inactiveBackground": "#1f2335",
-		"titleBar.inactiveForeground": "#737aa2"
+		"titleBar.inactiveForeground": "#737aa2",
+		"diffEditor.insertedTextBackground": "#d2ffd2"
 	},
 	"tokenColors": [
 		{
@@ -315,7 +316,7 @@
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#565f89"
+				"foreground": "#4b5363"
 			}
 		},
 		{
