@@ -13,11 +13,11 @@ The theme was originally built for personal use and takes inspiration from Tokyo
 - **Support for Popular Extensions**: Fully compatible with popular VS Code extensions, ensuring a seamless workflow.
 
 ### Visuals:
-![ionztorm Theme Preview](image/example.png)  
+![ionztorm Theme Preview](images/example.png)  
 *Experience the ionztorm Theme in action!*
 
 ### Installation:
-To install the ionztorm Theme:
+To install the ionztorm Theme
 1. Open the Extensions view in Visual Studio Code (`Ctrl+Shift+X`).
 2. Search for **ionztorm Theme** and click **Install**.
 3. Select the theme from the Color Theme menu (`Ctrl+K Ctrl+T`).
