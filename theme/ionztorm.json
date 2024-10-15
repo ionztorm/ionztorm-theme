@@ -188,7 +188,7 @@
 		"titleBar.activeForeground": "#c0caf5",
 		"titleBar.inactiveBackground": "#1f2335",
 		"titleBar.inactiveForeground": "#737aa2",
-		"diffEditor.insertedTextBackground": "#8BC34A50"
+		"diffEditor.insertedTextBackground": "#8BC34A30"
 	},
 	"tokenColors": [
 		{
@@ -295,7 +295,8 @@
 				"support.constant.json",
 				"keyword.operator",
 				"punctuation.accessor",
-				"support.class.error"
+				"support.class.error",
+				"punctuation.accessor.optional"
 			],
 			"settings": {
 				"foreground": "#f7768e"
@@ -310,13 +311,9 @@
 		},
 		{
 			"name": "GREY",
-			"scope": [
-				"comment.line.double-slash",
-				"punctuation.accessor.optional",
-				"comment.block"
-			],
+			"scope": ["comment.line.double-slash", "comment.block"],
 			"settings": {
-				"foreground": "#3C4043"
+				"foreground": "#BD5A91"
 			}
 		},
 		{
