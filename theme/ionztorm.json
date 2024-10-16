@@ -194,6 +194,10 @@
 		{
 			"name": "YELLOW",
 			"scope": [
+				"punctuation.accessor.optional",
+				"punctuation.definition.template-expression",
+				"punctuation.definition.entity",
+				"constant.character.entity",
 				"variable.other.readwrite",
 				"variable.object.property",
 				"variable.other.property"
@@ -277,11 +281,7 @@
 		},
 		{
 			"name": "MAGENTA",
-			"scope": [
-				"support.class.component",
-				"keyword.control",
-				"variable.parameter"
-			],
+			"scope": ["keyword.control", "variable.parameter"],
 			"settings": {
 				"foreground": "#bb9af7"
 			}
@@ -289,17 +289,13 @@
 		{
 			"name": "RED",
 			"scope": [
+				"support.class.component",
 				"constant.language.null",
 				"keyword.operator.assignment",
-				"punctuation.definition.tag",
 				"support.constant.json",
 				"keyword.operator",
 				"punctuation.accessor",
-				"support.class.error",
-				"punctuation.accessor.optional",
-				"punctuation.definition.template-expression",
-				"punctuation.definition.entity",
-				"constant.character.entity"
+				"support.class.error"
 			],
 			"settings": {
 				"foreground": "#f7768e"
@@ -317,6 +313,13 @@
 			"scope": ["comment.line.double-slash", "comment.block"],
 			"settings": {
 				"foreground": "#BD5A91"
+			}
+		},
+		{
+			"name": "GREY",
+			"scope": ["punctuation.definition.tag"],
+			"settings": {
+				"foreground": "#555555"
 			}
 		},
 		{
