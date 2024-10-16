@@ -196,8 +196,7 @@
 			"scope": [
 				"variable.other.readwrite",
 				"variable.object.property",
-				"variable.other.property",
-				"punctuation.definition.template-expression"
+				"variable.other.property"
 			],
 			"settings": {
 				"foreground": "#e0af68"
@@ -297,7 +296,10 @@
 				"keyword.operator",
 				"punctuation.accessor",
 				"support.class.error",
-				"punctuation.accessor.optional"
+				"punctuation.accessor.optional",
+				"punctuation.definition.template-expression",
+				"punctuation.definition.entity",
+				"constant.character.entity"
 			],
 			"settings": {
 				"foreground": "#f7768e"
