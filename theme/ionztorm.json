@@ -196,7 +196,8 @@
 			"scope": [
 				"variable.other.readwrite",
 				"variable.object.property",
-				"variable.other.property"
+				"variable.other.property",
+				"punctuation.definition.template-expression"
 			],
 			"settings": {
 				"foreground": "#e0af68"
@@ -222,7 +223,7 @@
 		},
 		{
 			"name": "GREEN1",
-			"scope": ["string.quoted.double"],
+			"scope": ["string.quoted.double", "string.template"],
 			"settings": {
 				"foreground": "#9ece6a"
 			}
@@ -310,7 +311,7 @@
 			}
 		},
 		{
-			"name": "GREY",
+			"name": "PINK",
 			"scope": ["comment.line.double-slash", "comment.block"],
 			"settings": {
 				"foreground": "#BD5A91"
