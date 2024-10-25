@@ -210,7 +210,8 @@
 			"name": "ORANGE",
 			"scope": [
 				"constant.language.boolean",
-				"support.type.builtin, constant.language.json.comments"
+				"support.type.builtin",
+				"constant.language.json.comments"
 			],
 			"settings": {
 				"foreground": "#ff9e64"
@@ -286,7 +287,8 @@
 			"name": "MAGENTA",
 			"scope": [
 				"keyword.control",
-				"variable.parameter, constant.numeric.json.comments"
+				"variable.parameter",
+				"constant.numeric.json.comments"
 			],
 			"settings": {
 				"foreground": "#bb9af7"
