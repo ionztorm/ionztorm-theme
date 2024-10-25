@@ -387,7 +387,6 @@
 				"punctuation.terminator",
 				"markup.bold.markdown",
 				"source.zig storage.type.function",
-				"support.class.component",
 				"variable.other.constant"
 			],
 			"settings": {
