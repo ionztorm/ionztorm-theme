@@ -208,7 +208,10 @@
 		},
 		{
 			"name": "ORANGE",
-			"scope": ["constant.language.boolean", "support.type.builtin"],
+			"scope": [
+				"constant.language.boolean",
+				"support.type.builtin, constant.language.json.comments"
+			],
 			"settings": {
 				"foreground": "#ff9e64"
 			}
@@ -281,7 +284,10 @@
 		},
 		{
 			"name": "MAGENTA",
-			"scope": ["keyword.control", "variable.parameter"],
+			"scope": [
+				"keyword.control",
+				"variable.parameter, constant.numeric.json.comments"
+			],
 			"settings": {
 				"foreground": "#bb9af7"
 			}
@@ -325,7 +331,6 @@
 		{
 			"name": "BOLD",
 			"scope": [
-				"keyword",
 				"keyword.control",
 				"keyword.operator",
 				"keyword.other.template",
