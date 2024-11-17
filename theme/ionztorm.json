@@ -323,18 +323,16 @@
     },
     {
       "name": "PINK",
-      "scope": ["comment.line.double-slash", "comment.block"],
+      "scope": [
+        "comment.line.double-slash",
+        "comment.block",
+        "punctuation.definition.tag"
+      ],
       "settings": {
         "foreground": "#BD5A91"
       }
     },
-    {
-      "name": "GREY",
-      "scope": ["punctuation.definition.tag"],
-      "settings": {
-        "foreground": "#555555"
-      }
-    },
+
     {
       "name": "BOLD",
       "scope": [
