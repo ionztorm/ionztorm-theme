@@ -1,25 +1,27 @@
 {
-	"name": "ionztorm-theme",
-	"displayName": "ionztorm theme",
-	"description": "A VSCode theme by ionztorm, influenced by Tokyonight",
-	"version": "0.3.17",
-	"publisher": "ionztorm",
-	"icon": "images/icon.png",
-	"engines": {
-		"vscode": "^1.50.0"
-	},
-	"categories": ["Themes"],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ionztorm/ionztorm-theme"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "ionztorm",
-				"uiTheme": "vs-dark",
-				"path": "theme/ionztorm.json"
-			}
-		]
-	}
+  "name": "ionztorm-theme",
+  "displayName": "ionztorm theme",
+  "description": "A VSCode theme by ionztorm, influenced by Tokyonight",
+  "version": "0.3.18",
+  "publisher": "ionztorm",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ionztorm/ionztorm-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "ionztorm",
+        "uiTheme": "vs-dark",
+        "path": "theme/ionztorm.json"
+      }
+    ]
+  }
 }
